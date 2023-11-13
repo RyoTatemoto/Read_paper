@@ -1,4 +1,4 @@
-### Research paper 
+# Research paper 
 
 Read paper for Lab seminar
 
